@@ -10,20 +10,20 @@
 <br />
 <div align="center">
   <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
+    <img src="images/readme/img01.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Rehan & Maulidan</strong>
+    <strong>Astrid & Ginanjar</strong>
     <br />
     <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    <a href="https://github.com/rayhanyulanda">Astrid Fitriani</a>
     ·
-    <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
+    <a href="https://github.com/maulidannashuha">Gun Ginanjar</a>
   </p>
 </div>
 
@@ -68,7 +68,7 @@ Reach me around the web :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
+## Astrid Fitriani<img src="images/readme/woman.png" width="30px">
 
 
 
